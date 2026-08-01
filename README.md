@@ -1,6 +1,6 @@
 # SmartShelf — Sistema Inteligente de Reposição de Stock
 
-> 🇬🇧 **English version:** [SmartShelf---EN](https://github.com/MaylVrosa/SmartShelf---EN)
+> **English version:** [SmartShelf---EN](https://github.com/MaylVrosa/SmartShelf---EN)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Estado](https://img.shields.io/badge/estado-em%20desenvolvimento-orange)
